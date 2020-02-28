@@ -38,4 +38,4 @@ This project implements a SQL Engine using HDFS.
 2. Python 3.5.2
 
 # Conclusion
-Creating the project was a great learning experience. I am hoping to improve the efficiency of the Engine and eliminate as many limitations as possible. Do reach out to me if you want to create a branch and/or any improvements to the project. 
+Creating the project was a great learning experience. Hope to improve the efficiency of the Engine and eliminate as many limitations as possible. Feel free to reach out to me to create a branch and/or any improvements to the project. 
