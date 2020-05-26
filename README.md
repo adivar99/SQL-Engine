@@ -39,3 +39,6 @@ This project implements a SQL Engine using HDFS.
 
 # Conclusion
 Creating the project was a great learning experience. Hope to improve the efficiency of the Engine and eliminate as many limitations as possible. Feel free to reach out to me to create a branch and/or any improvements to the project. 
+
+# Post-Script
+I have deleted the scholarship.csv. I apologise to anyone who's name I put in the datasheet. I used the data as an example during the presentation and I should've deleted it soon after. Thanks!
